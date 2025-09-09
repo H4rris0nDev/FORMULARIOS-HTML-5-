@@ -1,0 +1,86 @@
+body {
+    background-color: #7C00FE;
+    font-family: Verdana;
+}
+
+
+input,
+button {
+    background-color: #F9E400;
+    color: #000000;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 50px;
+    padding: 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.2s, transform 0.1s;
+}
+
+
+input[type="checkbox"] {
+    accent-color: #F9E400;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+
+input[type="radio"] {
+    accent-color: #F9E400;
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+
+label {
+    color: #F9E400;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+h1 {
+    color: #7C00FE;
+    background-color: #F9E400;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+
+h2 {
+    color: #F9E400;
+    background-color: #7C00FE;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 50px;
+    border: 2px solid #F9E400;
+    padding: 20px;
+}
+
+
+hr {
+    height: 5px;
+    border: none;
+    border-radius: 50px;
+    background-color: #F9E400;
+    margin: 20px 0;
+}
+
+
+img {
+    background-color: #F9E400;
+    padding: 5px;
+    border-radius: 22px;
+    border: 2px solid #F9E400;
+    width: 410px;
+    height: 110px;
+}
+
+form{
+    color: #F9E400;
+}
